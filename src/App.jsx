@@ -1,9 +1,13 @@
+import {Home} from './pages'
+
+
+
 function App() {
   
 
   return (
     <>
-      Empty React
+      <Home />
     </>
   )
 }
